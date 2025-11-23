@@ -21,11 +21,13 @@
 
 ## Passos para rodar o projeto localmente
 
-1. **Clone o repositório**  
+**Clone o repositório**  
 ```bash
+1. **repositório**
+
 git clone https://github.com/RailanDev7/sistema-de-delivery-backend.git
 
-2. **Entre na pasta do projeto
+2. **Entre na pasta do projeto**
  
  cd src
 
@@ -33,6 +35,6 @@ git clone https://github.com/RailanDev7/sistema-de-delivery-backend.git
 
 npm install
 
-.4 Inicie o servidor
+4. Inicie o servidor
 
-nodemon app.js
+nodemon app.js ```
