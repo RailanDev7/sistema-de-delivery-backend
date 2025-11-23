@@ -12,7 +12,6 @@ Sistema de delivery feito com Node.js, Express e MySQL.
 -MySQL
 -JWT para autenticação
 
-#rodando projeto:
 
 ##Passos para rodar o projeto localmente:
 ```bash
