@@ -1,25 +1,38 @@
-Sistema de delivery feito com Node.js, Express e MySQL.
+# Sistema de Delivery
 
-#Funcionalidades: 
--Cadastro e login de usuários
--Upload de imagens
--Sistema de pedidos
+**Sistema de delivery feito com Node.js, Express e MySQL.**
 
+---
 
-#Tecnologias:
--Node.js
--Express
--MySQL
--JWT para autenticação
+## Funcionalidades
+- **Cadastro e login de usuários**  
+- **Upload de imagens**  
+- **Sistema de pedidos**
 
+---
 
-##Passos para rodar o projeto localmente:
+## Tecnologias
+- **Node.js**  
+- **Express**  
+- **MySQL**  
+- **JWT**
+
+---
+
+## Passos para rodar o projeto localmente
+
+1. **Clone o repositório**  
 ```bash
-git https://github.com/RailanDev7/sistema-de-delivery-backend.git
+git clone https://github.com/RailanDev7/sistema-de-delivery-backend.git
 
-cd src
+2. **Entre na pasta do projeto
+ 
+ cd src
+
+3. Instale as dependências
 
 npm install
 
+.4 Inicie o servidor
+
 nodemon app.js
-```
