@@ -6,7 +6,6 @@
 
 ## Funcionalidades
 - **Cadastro e login de usuários**  
-- **Upload de imagens**  
 - **Sistema de pedidos**
 
 ---
@@ -37,4 +36,4 @@ npm install
 
 4. Inicie o servidor
 
-nodemon app.js ```
+nodemon app.js
